@@ -1,4 +1,3 @@
-
   .github/workflows/az-security-scan.yml
 
   name: AZ-Security-Scan
