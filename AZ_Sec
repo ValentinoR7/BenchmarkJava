@@ -1,5 +1,5 @@
 
-  # .Github/workflows/az-security-scan.yml
+  .github/workflows/az-security-scan.yml
 
   name: AZ-Security-Scan
   
